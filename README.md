@@ -1,4 +1,6 @@
-1) Playbook Oluşturma
+# Liman MYS'de Ansible eklentisi ile NGİNX kurulumu
+
+**1) Playbook Oluşturma**
 
 ![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a1.png)
 
@@ -20,7 +22,7 @@ Dosya İçeriği: Oluşturacağımız playbook dosyasının içeriğini giriyoru
         name: nginx
         state: started
 
-2) Hosts Ayarları
+**2) Hosts Ayarları**
 
 ![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a3.png)
 
@@ -34,7 +36,7 @@ Clientlarımızı ekleyeceğimiz bir grup adı ekliyoruz.
 
 Daha sonra hosts sekmesinde eklediğimiz grup gözükecektir. Üzerine tıklayıp Client Ekle diyoruz ve client bilgilerini giriyoruz.
 
-3) Playbook Çalıştırma
+**3) Playbook Çalıştırma**
 
 ![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a6.png)
 
