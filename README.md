@@ -36,18 +36,18 @@ Daha sonra hosts sekmesinde eklediğimiz grup gözükecektir. Üzerine tıklayı
 
 3) Playbook Çalıştırma
 
-Image description
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a6.png)
 
 Playbook-2 sekmesinde oluşturduğumuz playbooku seçiyoruz ve çalıştır diyoruz
 
-Image description
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a7.png)
 
 Playbooku yükleyeceğimiz hosts grubunu ve sudo şifresini girip çalıştır diyoruz.
 
-Image description
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a8.png)
 
 İsteğe bağlı olarak log kaydedilebilir.
 
-Image description
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a9.png)
 
 Client üzerinden nginx'in yüklendiğini ve aktif olduğunu görüntüleyebiliriz.
