@@ -1,10 +1,10 @@
 1) Playbook Oluşturma
 
-https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a1.png
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a1.png)
 
 Playbook sekmesinden "Dosya Oluştur" diyoruz
 
-https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a2.png
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a2.png)
 
 Dosya Adı: Oluşturacağımız playbook dosyasının ismini giriyoruz.
 
