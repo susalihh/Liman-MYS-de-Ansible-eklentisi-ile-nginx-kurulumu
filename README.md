@@ -12,6 +12,7 @@ Dosya Adı: Oluşturacağımız playbook dosyasının ismini giriyoruz.
 
 Dosya İçeriği: Oluşturacağımız playbook dosyasının içeriğini giriyoruz.
 
+```yml
 - hosts: all
   become: yes
   tasks:
@@ -21,6 +22,7 @@ Dosya İçeriği: Oluşturacağımız playbook dosyasının içeriğini giriyoru
       service:
         name: nginx
         state: started
+```
 
 **2) Hosts Ayarları**
 
