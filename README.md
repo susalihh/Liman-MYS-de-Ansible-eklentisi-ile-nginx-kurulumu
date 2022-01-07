@@ -2,7 +2,7 @@
 
 **1) Playbook Oluşturma**
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a1.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/p1.png)
 
 Playbook sekmesinden "Dosya Oluştur" diyoruz
 
