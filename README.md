@@ -26,7 +26,7 @@ Dosya İçeriği: Oluşturacağımız playbook dosyasının içeriğini giriyoru
 
 **2) Hosts Ayarları**
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a3.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/p2.png)
 
 Hosts sekmesinde Grup Ekle diyoruz
 
@@ -40,7 +40,7 @@ Daha sonra hosts sekmesinde eklediğimiz grup gözükecektir. Üzerine tıklayı
 
 **3) Playbook Çalıştırma**
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a6.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/p3.png)
 
 Playbook-2 sekmesinde oluşturduğumuz playbooku seçiyoruz ve çalıştır diyoruz
 
