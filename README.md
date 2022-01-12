@@ -12,11 +12,11 @@ Ansible eklentisini başarılı bir şekilde eklediysek nginx kurmaya başlayal�
 
 Playbook'lar, Ansible'ın yapılandırma, dağıtım ve düzenleme işlevlerini kaydeder ve yürütür. Uzak sistemlerimizin uygulamasını istediğiniz bir politikayı veya genel bir BT sürecindeki bir dizi adımı tanımlayabilirler. 
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/p1.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/p1.png)
 
 Playbook sekmesinden "Dosya Oluştur" diyoruz
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a2.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/a2.png)
 
 Dosya Adı: Oluşturacağımız playbook dosyasının ismini giriyoruz.
 
@@ -38,32 +38,32 @@ Dosya İçeriği: Oluşturacağımız playbook dosyasının içeriğini giriyoru
 
 Ansible, envanter olarak bilinen bir liste veya listeler grubu kullanarak aynı anda altyapıdaki birden çok yönetilen düğüme veya "ana bilgisayara" karşı çalışır. Envanter Ansible'ın karşı karşıya gelmesini istediğimiz ana bilgisayarları veya grupları seçmek için kullanılır. 
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/p2.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/p2.png)
 
 Hosts sekmesinde Grup Ekle diyoruz
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a4.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/a4.png)
 
 Clientlarımızı ekleyeceğimiz bir grup adı ekliyoruz.
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a5.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/a5.png)
 
 Daha sonra hosts sekmesinde eklediğimiz grup gözükecektir. Üzerine tıklayıp Client Ekle diyoruz ve client bilgilerini giriyoruz.
 
 **3) Playbook Çalıştırma**
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/p3.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/p3.png)
 
 Playbook sekmesinde oluşturduğumuz playbook'un üzerine tıklayıp çalıştırabiliriz veya sağ tıklayıp görüntüleme, düzenleme, çalıştırma ve silme gibi diğer fonksiyonları da kullanabiliriz.
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a7.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/a7.png)
 
 Playbooku çalıştır dedikten sonra playbooku uygulayacağımız hosts grubunu ve sudo şifresini girip çalıştır diyoruz.
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a8.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/a8.png)
 
 İsteğe bağlı olarak log kaydedilebilir.
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/a9.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/a9.png)
 
 Client üzerinden nginx'in yüklendiğini ve aktif olduğunu görüntüleyebiliriz.
