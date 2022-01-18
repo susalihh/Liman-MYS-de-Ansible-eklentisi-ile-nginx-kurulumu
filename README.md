@@ -60,7 +60,7 @@ Playbook sekmesinde oluşturduğumuz playbook'un üzerine tıklayıp çalıştı
 
 Playbooku çalıştır dedikten sonra playbooku uygulayacağımız hosts grubunu ve sudo şifresini girip çalıştır diyoruz.
 
-![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/a8.png)
+![](https://github.com/susalihh/Liman-MYS-de-Ansible-eklentisi-ile-nginx-kurulumu/blob/main/img/Ekran%20Resmi%202022-01-17%2013.03.02.png)
 
 İsteğe bağlı olarak log kaydedilebilir.
 
